@@ -1,10 +1,14 @@
 import React from 'react';
+import logo from './../../images/logo g.svg';
+import './../../App.scss';
 
 function HeaderHome() {
   return (
-    <div>
-      Header
-    </div>
+    <header className="header-section">
+      <div className="container">
+        <img src={ logo } alt="logo" />
+      </div>
+    </header>
   )
 }
 
