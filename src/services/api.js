@@ -7,6 +7,5 @@ export const getData =  async (dispatch) => {
   }
   });
   const response = await fetchUrl.json();
-  console.log(response.data);
   return dispatch({ type: 'GET_DATA', payload: response.data });
 };
