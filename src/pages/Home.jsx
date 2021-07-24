@@ -2,6 +2,7 @@ import React from 'react'
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getData } from './../services/api.js';
+import Footer from './components/Footer.jsx';
 import  HeaderHome  from './components/HeaderHome';
 import HomeSection from './components/HomeSection.jsx';
 import InformationSection from './components/InformationSection.jsx';
@@ -22,6 +23,7 @@ function Home() {
       <HomeSection />
       <InformationSection />
       <TableAnime animeData={ animeData } />
+      <Footer />
     </div>
   )
 }
