@@ -4,6 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { getData } from './../services/api.js';
 import  HeaderHome  from './components/HeaderHome';
 import HomeSection from './components/HomeSection.jsx';
+import InformationSection from './components/InformationSection.jsx';
 import TableAnime from './components/TableAnime.jsx';
 
 
@@ -19,6 +20,7 @@ function Home() {
     <div>
       <HeaderHome />
       <HomeSection />
+      <InformationSection />
       <TableAnime animeData={ animeData } />
     </div>
   )

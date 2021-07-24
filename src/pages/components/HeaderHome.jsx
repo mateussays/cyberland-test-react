@@ -6,7 +6,7 @@ function HeaderHome() {
   return (
     <header className="header-section">
       <div className="container">
-        <img src={ logo } alt="logo" />
+        <div><img src={ logo } alt="logo" /></div>
       </div>
     </header>
   )
