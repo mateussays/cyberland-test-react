@@ -1,5 +1,6 @@
 {
   "name": "bushi-project-app",
+  "homepage": "http://mateussays.github.io/bushi-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -47,6 +48,7 @@
   },
   "devDependencies": {
     "eslint": "^7.31.0",
+    "gh-pages": "^3.2.3",
     "sass": "^1.36.0"
   }
 }
