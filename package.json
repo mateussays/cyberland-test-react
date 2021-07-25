@@ -1,6 +1,6 @@
 {
-  "name": "bushi-project-app",
   "homepage": "http://mateussays.github.io/cyberland-test-react/",
+  "name": "bushi-project-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
