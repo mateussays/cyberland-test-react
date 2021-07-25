@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bushi-project/static/css/main.dc6c97b0.chunk.css",
-    "main.js": "/bushi-project/static/js/main.20a0183f.chunk.js",
-    "main.js.map": "/bushi-project/static/js/main.20a0183f.chunk.js.map",
-    "runtime-main.js": "/bushi-project/static/js/runtime-main.b3b8ada8.js",
-    "runtime-main.js.map": "/bushi-project/static/js/runtime-main.b3b8ada8.js.map",
-    "static/js/2.bd6e18fe.chunk.js": "/bushi-project/static/js/2.bd6e18fe.chunk.js",
-    "static/js/2.bd6e18fe.chunk.js.map": "/bushi-project/static/js/2.bd6e18fe.chunk.js.map",
-    "static/js/3.1fd537c0.chunk.js": "/bushi-project/static/js/3.1fd537c0.chunk.js",
-    "static/js/3.1fd537c0.chunk.js.map": "/bushi-project/static/js/3.1fd537c0.chunk.js.map",
-    "index.html": "/bushi-project/index.html",
-    "static/css/main.dc6c97b0.chunk.css.map": "/bushi-project/static/css/main.dc6c97b0.chunk.css.map",
-    "static/js/2.bd6e18fe.chunk.js.LICENSE.txt": "/bushi-project/static/js/2.bd6e18fe.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/bushi-project/static/media/carrossel.ed2ed565.jpg",
-    "static/media/logo g.db2103c3.svg": "/bushi-project/static/media/logo g.db2103c3.svg"
+    "main.css": "/cyberland-test-react/static/css/main.2db5cb2d.chunk.css",
+    "main.js": "/cyberland-test-react/static/js/main.20a0183f.chunk.js",
+    "main.js.map": "/cyberland-test-react/static/js/main.20a0183f.chunk.js.map",
+    "runtime-main.js": "/cyberland-test-react/static/js/runtime-main.d4531e46.js",
+    "runtime-main.js.map": "/cyberland-test-react/static/js/runtime-main.d4531e46.js.map",
+    "static/js/2.bd6e18fe.chunk.js": "/cyberland-test-react/static/js/2.bd6e18fe.chunk.js",
+    "static/js/2.bd6e18fe.chunk.js.map": "/cyberland-test-react/static/js/2.bd6e18fe.chunk.js.map",
+    "static/js/3.1fd537c0.chunk.js": "/cyberland-test-react/static/js/3.1fd537c0.chunk.js",
+    "static/js/3.1fd537c0.chunk.js.map": "/cyberland-test-react/static/js/3.1fd537c0.chunk.js.map",
+    "index.html": "/cyberland-test-react/index.html",
+    "static/css/main.2db5cb2d.chunk.css.map": "/cyberland-test-react/static/css/main.2db5cb2d.chunk.css.map",
+    "static/js/2.bd6e18fe.chunk.js.LICENSE.txt": "/cyberland-test-react/static/js/2.bd6e18fe.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/cyberland-test-react/static/media/carrossel.ed2ed565.jpg",
+    "static/media/logo g.db2103c3.svg": "/cyberland-test-react/static/media/logo g.db2103c3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3b8ada8.js",
+    "static/js/runtime-main.d4531e46.js",
     "static/js/2.bd6e18fe.chunk.js",
-    "static/css/main.dc6c97b0.chunk.css",
+    "static/css/main.2db5cb2d.chunk.css",
     "static/js/main.20a0183f.chunk.js"
   ]
 }
